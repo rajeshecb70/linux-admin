@@ -1,0 +1,24 @@
+# Linux Basic command
+
+ls — List Directory Contents
+# Basic listing
+ls
+
+# Detailed list including file sizes, permissions, and hidden files
+ls -la
+
+# Sort files by size in human-readable format
+ls -lhS
+
+cd — Change Directory
+# Go to a specific folder
+cd /var/www/html
+
+# Move up one level
+cd ..
+
+# Go directly to your home directory
+cd ~
+
+# Switch back to the previous directory
+cd -
