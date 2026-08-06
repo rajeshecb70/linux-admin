@@ -1,6 +1,6 @@
 # Linux Basic command
 
-ls — List Directory Contents
+## ls — List Directory Contents
 # Basic listing
 ls
 
@@ -10,7 +10,7 @@ ls -la
 # Sort files by size in human-readable format
 ls -lhS
 
-cd — Change Directory
+## cd — Change Directory
 # Go to a specific folder
 cd /var/www/html
 
