@@ -22,3 +22,8 @@ cd ~
 
 # Switch back to the previous directory
 cd -
+
+# Git branching
+- Gitflow
+- github flow
+- trunk based
